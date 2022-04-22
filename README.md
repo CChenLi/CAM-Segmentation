@@ -1,5 +1,5 @@
 # CAM-Segmentation
-Project for COMS 4995 DeepLearning S22: Class activation map-based image segmentaion
+Project for COMS 4995 DeepLearning S22: Class activation map-based image segmentaion.
 
 - Most Model related works are shown in `CAMUnet.ipynb`
 - Sementation models are defined in `src/unet.py`
