@@ -13,6 +13,9 @@ Project for COMS 4995 DeepLearning S22: Class activation map-based image segment
 - (c) Conventional segmentation model.
 - (d) Proposed model that incorperates holistic distribution of target object.
 
+### Architecture
+<img src="https://user-images.githubusercontent.com/63531857/166863139-4705f726-ae18-42df-b508-f9fe19428d50.png" width="800"/>
+
 
 ### File dependencies
 - Most Model related works are shown in `CAMUnet.ipynb`
